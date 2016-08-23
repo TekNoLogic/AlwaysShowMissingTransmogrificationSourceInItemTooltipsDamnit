@@ -1,0 +1,1 @@
+C_TransmogCollection.SetShowMissingSourceInItemTooltips(true)

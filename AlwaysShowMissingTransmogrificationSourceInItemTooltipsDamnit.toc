@@ -1,0 +1,6 @@
+## Interface: 70000
+
+## Title: AlwaysShowMissingTransmogrificationSourceInItemTooltipsDamnit
+## Author: Tekkub Stoutwrithe
+
+AlwaysShowMissingTransmogrificationSourceInItemTooltipsDamnit.lua
